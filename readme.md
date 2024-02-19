@@ -38,3 +38,11 @@ runme:
         Whether Long or Short exit the trade at the end of the session. I like to exit around 16:50 (about
         10 minutes before the session end).
         You will also have a 150 pip stop loss as an exit if the trade goes too far against you.
+
+#### This is IMAGE of the best optimisation outcome 13.5 months outcome
+
+<img src="2hour-e.png" style="float: left; margin-right: 10px;" />
+
+#### Settings for best performing settings
+
+<img src="settings.png" style="float: left; margin-right: 10px;" />
